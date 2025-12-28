@@ -1,0 +1,17 @@
+# Core CLI & utilities
+argparse
+
+# TXT processing
+# (built-in, no dependency needed)
+
+# DOCX processing
+python-docx
+
+# PDF processing
+PyPDF2
+
+# Data export
+pandas
+
+# Optional (recommended later)
+tabulate

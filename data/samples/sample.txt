@@ -1,0 +1,24 @@
+DOCUMENT ANALYZER TEST FILE
+
+Introduction
+This is a sample text file created for testing the Document Analyzer project.
+It contains multiple lines and paragraphs to verify word counting accuracy.
+
+Purpose
+The purpose of this document is to test:
+word counting,
+paragraph detection,
+and basic text analysis features.
+
+Paragraphs
+This is the first paragraph. It has several words.
+This is the second sentence of the same paragraph.
+
+This is a new paragraph. It exists to test paragraph separation.
+
+Repetition Test
+Word counter word counter WORD Counter.
+
+Conclusion
+This concludes the sample document.
+Thank you for testing.
