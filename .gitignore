@@ -11,3 +11,5 @@ outputs/
 # OS files
 .DS_Store
 Thumbs.db
+# MS Word temp files
+~$*.docx
