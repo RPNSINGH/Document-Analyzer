@@ -24,9 +24,9 @@ The analyzer will extract the following information from documents:
 
 | File Type | Support Level                     |
 | --------- | --------------------------------- |
-| `.txt`    | ✅ Full                            |
-| `.docx`   | ✅ Full                            |
-| `.pdf`    | ⚠️ Best-effort (layout dependent) |
+| `.txt`    |  Full                            |
+| `.docx`   |  Full                            |
+| `.pdf`    |  Best-effort (layout dependent) |
 
 ---
 
